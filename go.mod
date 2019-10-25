@@ -1,4 +1,4 @@
-module github.com/funtoy/sun-group/dbHelper
+module github.com/funtoy/dbHelper
 
 go 1.13
 
